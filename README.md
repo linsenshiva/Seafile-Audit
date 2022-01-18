@@ -5,3 +5,6 @@ The credits for the patches belong manly to myself and I audited the SeadroidCli
 plaese open an issue if you wish to contribute anything or if you find any information or assumings that are wrong
 
 you can reach me under p.41n4mara@protonmail.com
+
+here you can find the patched Seadroid client
+https://github.com/orgs/auxCX/repositories
